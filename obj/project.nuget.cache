@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "il8vsESyErlAhBG6teW+LdOTJQe6ZHLDTsVsX5Cv+TaGLZ2YsCguD0U4+dYeHG+H286puDrDOCbAp0vzBDpnCw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jorda\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\TerraDeck\\TerraDeck.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jorda\\.nuget\\packages\\tmodloader.codeassist\\0.1.3\\tmodloader.codeassist.0.1.3.nupkg.sha512"
+  ],
+  "logs": []
+}

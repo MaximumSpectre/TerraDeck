@@ -1,0 +1,3 @@
+displayName = Terra Card Class
+author = MaximumSpectre
+version = 0.1
